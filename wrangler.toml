@@ -19,7 +19,7 @@ name = "cloudflare-docker-proxy"
 #   { pattern = "k8s-gcr.92kkb.us.kg", custom_domain = true },
 #   { pattern = "k8s.92kkb.us.kg", custom_domain = true },
 #   { pattern = "ghcr.92kkb.us.kg", custom_domain = true },
-#   { pattern = "cloudsmith.libcuda.so", custom_domain = true },
+#   { pattern = "cloudsmith.92kkb.us.kg", custom_domain = true },
 # ]
 
 [env.production.vars]
